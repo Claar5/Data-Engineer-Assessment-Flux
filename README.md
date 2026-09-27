@@ -1,3 +1,5 @@
+**AI was used to generate this file**
+
 # Flux Data Engineer Assessment
 
 A small batch pipeline that loads messy booking extracts into a SQLite warehouse,
