@@ -41,6 +41,7 @@ point-in-time ZAR revenue, and a reporting view joined to property attributes) a
 answers the month-on-month growth and top-properties-per-country questions.
 Revenue is recognised on confirmed bookings only; pending and cancelled amounts are
 kept in separate columns.
+Unfortunately BigQuery compatible code could not be written at this time
 
 ## Assumptions
 
